@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 305 305">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        fill: #e5e5e5;
+      }
+
+      .cls-3 {
+        fill: url(#linear-gradient);
+      }
+
+      .cls-4 {
+        fill: #6a6ad6;
+      }
+
+      .cls-5 {
+        fill: #140f3d;
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#6f6fdb"/>
+      <stop offset="1" stop-color="#22148a"/>
+    </linearGradient>
+  </defs>
+  <g id="overview-img" transform="translate(-437.928 -326.561)">
+    <circle id="Ellipse_45" data-name="Ellipse 45" class="cls-1" cx="152.5" cy="152.5" r="152.5" transform="translate(437.928 326.561)"/>
+    <g id="Group_222" data-name="Group 222" transform="translate(-82.266 30.266)">
+      <rect id="Rectangle_210" data-name="Rectangle 210" class="cls-2" width="144" height="172" rx="10" transform="translate(606.732 357.842) rotate(11)"/>
+      <path id="Subtraction_2" data-name="Subtraction 2" class="cls-3" d="M1657.311,16074H1553a10,10,0,0,1-10-10v-152a10,10,0,0,1,10-10h124a10.012,10.012,0,0,1,10,10v118.5h-.5v.771L1657.311,16074h0Z" transform="translate(-935.999 -15543.999)"/>
+      <path id="Path_982" data-name="Path 982" class="cls-4" d="M722.252,529.088l-5.022-43.667h35.054Z" transform="translate(-1 1)"/>
+      <path id="Path_983" data-name="Path 983" class="cls-5" d="M722.131,529.074l-4.953-43.627,35.1-.026Z" transform="translate(1438.431 1015.422) rotate(180)"/>
+    </g>
+    <path id="Path_987" data-name="Path 987" class="cls-4" d="M6.474,5.809,30.166-12.753l5.282,4.074L6.474,13.807-22.5-8.678l5.282-4.074Zm0-8.3L-17.218-20.9-22.5-24.976,6.474-47.461,35.448-24.976,30.166-20.9Z" transform="translate(591.455 489.561)"/>
+  </g>
+</svg>

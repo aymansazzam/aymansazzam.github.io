@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 437.04 437.04">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #f8e7e7;
+      }
+
+      .cls-2 {
+        fill: #dfb5b5;
+      }
+
+      .cls-3 {
+        fill: #ab4141;
+      }
+
+      .cls-4 {
+        fill: #d87d7d;
+      }
+
+      .cls-5 {
+        fill: #612323;
+      }
+
+      .cls-6 {
+        fill: url(#linear-gradient);
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#460a0a"/>
+      <stop offset="1" stop-color="#641616"/>
+    </linearGradient>
+  </defs>
+  <g id="empty" transform="translate(-437.928 -326.561)">
+    <circle id="Ellipse_45" data-name="Ellipse 45" class="cls-1" cx="218.52" cy="218.52" r="218.52" transform="translate(437.928 326.561)"/>
+    <g id="Group_222" data-name="Group 222" transform="translate(514.902 414.752)">
+      <rect id="Rectangle_210" data-name="Rectangle 210" class="cls-2" width="206.34" height="246.462" rx="10" transform="translate(47.027 0) rotate(11)"/>
+      <path id="Subtraction_2" data-name="Subtraction 2" class="cls-3" d="M163.8,246.463H14.331A14.332,14.332,0,0,1,0,232.133V14.33A14.329,14.329,0,0,1,14.331,0H192.009A14.346,14.346,0,0,1,206.34,14.33v169.8h-.717v1.105L163.8,246.463h0Z" transform="translate(47.414 0.228)"/>
+      <path id="Path_982" data-name="Path 982" class="cls-4" d="M724.426,547.992l-7.2-62.571h50.229Z" transform="translate(-513.301 -301.178)"/>
+      <path id="Path_983" data-name="Path 983" class="cls-5" d="M7.1,62.552,0,.038,50.3,0Z" transform="translate(211.125 246.69) rotate(180)"/>
+    </g>
+    <path id="Path_988" data-name="Path 988" class="cls-6" d="M16.891-102.75,45-74.641v40.156L16.891-6.375H-23.266L-51.375-34.484V-74.641l28.109-28.109Zm-25.1,74.54A6.81,6.81,0,0,0-3.187-26.2a6.81,6.81,0,0,0,5.02-2.008A6.66,6.66,0,0,0,3.84-33.1,6.66,6.66,0,0,0,1.832-38a6.81,6.81,0,0,0-5.02-2.008A6.81,6.81,0,0,0-8.207-38,6.66,6.66,0,0,0-10.215-33.1,6.66,6.66,0,0,0-8.207-28.21ZM2.083-49.292V-81.417H-8.458v32.125Z" transform="translate(667.928 589.561)"/>
+  </g>
+</svg>

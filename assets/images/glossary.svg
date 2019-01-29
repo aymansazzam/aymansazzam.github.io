@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 240">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #E86724;
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+
+      .cls-3, .cls-4, .cls-6 {
+        fill: none;
+      }
+
+      .cls-3 {
+        stroke: #fe853d;
+      }
+
+      .cls-4 {
+        stroke: #ffdac4;
+      }
+
+      .cls-5 {
+        stroke: none;
+      }
+    </style>
+  </defs>
+  <g id="glossary" transform="translate(-918 -494)">
+    <circle id="Ellipse" class="cls-1" cx="100" cy="100" r="100" transform="translate(938 514)"/>
+    <circle id="Ellipse-2" data-name="Ellipse" class="cls-2" cx="90" cy="90" r="90" transform="translate(948 524)"/>
+    <g id="Outline" class="cls-3" transform="translate(928 504)">
+      <circle class="cls-5" cx="110" cy="110" r="110"/>
+      <circle class="cls-6" cx="110" cy="110" r="109.5"/>
+    </g>
+    <g id="Outline_big" data-name="Outline big" class="cls-4" transform="translate(918 494)">
+      <circle class="cls-5" cx="120" cy="120" r="120"/>
+      <circle class="cls-6" cx="120" cy="120" r="119.5"/>
+    </g>
+    <path id="Path_984" data-name="Path 984" class="cls-1" d="M5.434-6.061a8.609,8.609,0,0,1-4.7-4.807,8.89,8.89,0,0,1-.1-6.687L11.494-43.678V-3.553ZM92.371-22.57a8.249,8.249,0,0,1,0,6.792,8.981,8.981,0,0,1-4.807,4.911L54.754,2.717a9.465,9.465,0,0,1-3.344.627q-6.061,0-8.15-5.434L21.107-55.59a6.241,6.241,0,0,1-.627-3.553,7.831,7.831,0,0,1,5.434-7.941L58.725-80.668a10.034,10.034,0,0,1,3.553-.627,8.2,8.2,0,0,1,8.15,5.434ZM26.228-55.9a4.306,4.306,0,0,0,3.135,1.358A4.306,4.306,0,0,0,32.5-55.9a4.306,4.306,0,0,0,1.358-3.135A4.306,4.306,0,0,0,32.5-62.173a4.306,4.306,0,0,0-3.135-1.358,4.306,4.306,0,0,0-3.135,1.358,4.306,4.306,0,0,0-1.358,3.135A4.306,4.306,0,0,0,26.228-55.9ZM20.48-5.643l-4.609-48.9L35.736,3.344H29.258A8.432,8.432,0,0,1,23.093.731,8.672,8.672,0,0,1,20.48-5.643Z" transform="translate(992 647)"/>
+  </g>
+</svg>

@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 240">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #E86724;
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+
+      .cls-3, .cls-4, .cls-6 {
+        fill: none;
+      }
+
+      .cls-3 {
+        stroke: #fe853d;
+      }
+
+      .cls-4 {
+        stroke: #ffdac4;
+      }
+
+      .cls-5 {
+        stroke: none;
+      }
+    </style>
+  </defs>
+  <g id="overview" transform="translate(-918 -494)">
+    <circle id="Ellipse" class="cls-1" cx="100" cy="100" r="100" transform="translate(938 514)"/>
+    <circle id="Ellipse-2" data-name="Ellipse" class="cls-2" cx="90" cy="90" r="90" transform="translate(948 524)"/>
+    <g id="Outline" class="cls-3" transform="translate(928 504)">
+      <circle class="cls-5" cx="110" cy="110" r="110"/>
+      <circle class="cls-6" cx="110" cy="110" r="109.5"/>
+    </g>
+    <g id="Outline_big" data-name="Outline big" class="cls-4" transform="translate(918 494)">
+      <circle class="cls-5" cx="120" cy="120" r="120"/>
+      <circle class="cls-6" cx="120" cy="120" r="119.5"/>
+    </g>
+    <path id="Icon" class="cls-1" d="M66.545-76.875l46.125,61.5H0l30.75-41.08,23.063,30.75,8.168-6.006L47.326-51.17Z" transform="translate(982 649)"/>
+  </g>
+</svg>
